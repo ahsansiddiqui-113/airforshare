@@ -1,0 +1,62 @@
+.upgrade-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  p {
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .benefits {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+  }
+  
+  .benefit {
+    text-align: center;
+  }
+  
+  .benefit img {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 10px;
+  }
+  
+  .create-account-btn {
+    align-items: center;
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 10px;
+    margin: 20px 0;
+    width: 100%;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .create-account-btn:hover {
+    background-color: #555;
+  }
+  
+  .more-info {
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  
+  .more-info strong {
+    font-size: 1.2em;
+  }
+  .p{
+    align-items: center;
+  }
+  

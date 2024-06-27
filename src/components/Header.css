@@ -1,0 +1,31 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+    background-color: #f4f4f4;
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #5a5a5a;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    padding: 0;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #5a5a5a;
+    font-weight: bold;
+  }
+  
+  .login-register {
+    color: blue;
+  }
+  
